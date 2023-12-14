@@ -20,7 +20,7 @@ const aniket = {
 
 <p align="center">
    <img height="170" width="150" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aniket0920&theme=neon-dark"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aaniket09&theme=neon-dark"/>
    <img height="170" width="150" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
 
@@ -34,14 +34,14 @@ const aniket = {
 <h2>Github Stats 📈:</h2>
 
   <p align="center">
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Aniket0920&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
-  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket0920&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaniket09&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaniket09&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
   </p>
 
 <details align="center">
   <summary>GitHub Activity Graph 📈</summary>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aniket0920&theme=xcode" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aaniket09&theme=xcode" />
 </p>
 </details>
 
@@ -49,12 +49,12 @@ const aniket = {
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aniket0920&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Aaniket09&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
   </a>
 </p>
 </details>
 
-<p><code><img height="20" src="https://komarev.com/ghpvc/?username=Aniket0920&color=blue"></code></p>
+<p><code><img height="20" src="https://komarev.com/ghpvc/?username=Aaniket09&color=blue"></code></p>
 
 <!--   
  funfact: "I love coding+eating+repeating"
