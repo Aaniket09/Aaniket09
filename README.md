@@ -2,8 +2,7 @@
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='155' height='155'>
 
-Hi, my name is Aniket Agarwal. I am a Student at Concordia University pursuing my Master's Degree in Information Systems Security. I like spending my time working on projects, participating in [hackathons](https://devpost.com/aniketagarwal57) and enjoy bringing ideas to life in the browser. I am also a Web Developer. I love playing around with web design and hopefully creating something that makes people smile. 
-
+Hi, my name is Aniket Agarwal. I am a recent graduate of Concordia University, having finished my Master's in Information Systems Security. I like spending my time working on projects, participating in [hackathons](https://devpost.com/aniketagarwal57), and enjoying bringing ideas to life in the browser. 
 
 ## The developer side of me...  
 ```javascript
