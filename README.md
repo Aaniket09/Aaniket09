@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Aniket Agarwal</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/aniket-agarwal-0920/">Aniket Agarwal</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 ```bash
 __        __   _                                  
