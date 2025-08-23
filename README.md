@@ -22,8 +22,7 @@ aniket@cybersec:~$ ./certifications.txt
 > [✓] ISC² Certified in Cybersecurity (CC)
 
 aniket@cybersec:~$ ./tools.txt
-> Microsoft Sentinel | Defender XDR | SOAR
-> Snort IDS/IPS | Wireshark | Shodan
+> Microsoft Sentinel | Defender XDR | SOAR | Snort IDS/IPS | Wireshark | Shodan
 
 aniket@cybersec:~$ ./cloud.txt
 > Azure ☁️ | VMware | OpenStack
