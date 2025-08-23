@@ -57,8 +57,6 @@ aniket@cybersec:~$ ./askMeAbout.txt
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/aniket-agarwal-0920  
+[<img align="left" width='35' height='35' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>](https://linkedin.com/in/aniket-agarwal-0920/)
+[<img align="left" width='35' height='35' src="https://user-images.githubusercontent.com/64153988/134053752-f53f94fc-8cbc-4754-a547-a27694d237e4.png"/>](https://www.instagram.com/aaniket09/) 
 
