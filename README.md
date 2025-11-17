@@ -47,8 +47,8 @@ aniket@cybersec:~$ ./askMeAbout.txt
 
 ## 🚨 Threat Detection & Automation
 
-- **[Azure Honeynet Security Implementation](https://github.com/Aaniket09)**  
-  Deployed a honeynet in Azure, ingested logs into Microsoft Sentinel, and created KQL rules for advanced detection. Hardened workloads with RBAC,      SSO, and firewall policies.
+- **[Threat Hunt: Ghost Support Session](https://github.com/Aaniket09/Threat-Hunt-Nov-2025-Cyber-Range)**  
+
   
 - **[DLL Injection Threat Detection Automation](https://github.com/Aaniket09/DLL-detection-using-python-and-ghidra)**  
   Developed a Python script to identify DLL injection techniques (MITRE T1055.001), achieving 80% detection accuracy and improving incident triage      efficiency.   
