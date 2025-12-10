@@ -49,8 +49,8 @@ aniket@cybersec:~$ ./askMeAbout.txt
 
 ## 🚨 Threat Detection & Automation
 
-- - **[Threat Hunt: Ghost Support Session](https://github.com/Aaniket09/AI-SOC-Agent)**
-  - 
+- **[AI SOC Agent for Azure Sentinel](https://github.com/Aaniket09/AI-SOC-Agent)**
+  
 - **[Threat Hunt: Ghost Support Session](https://github.com/Aaniket09/Threat-Hunt-Nov-2025-Cyber-Range)**  
 
 - **[DLL Injection Threat Detection Automation](https://github.com/Aaniket09/DLL-detection-using-python-and-ghidra)**  
